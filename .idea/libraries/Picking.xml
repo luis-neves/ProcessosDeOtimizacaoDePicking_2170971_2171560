@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Picking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAR_Ficheiros/Picking.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
